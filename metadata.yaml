@@ -1,0 +1,27 @@
+_repo: Wanhain-Suomalaisten-Tawaliset-ja-Suloiset-Sananlascut_53246
+_version: 0.0.1
+contributor:
+  compiler:
+    agent_name: Florinus, Henrik
+    aliases:
+    - Florini, Henrici
+    - Florinus, Henricus
+    birthdate: 1633
+    deathdate: 1705
+    gutenberg_agent_id: '47996'
+    url: http://www.gutenberg.org/2009/agents/47996
+description: ''
+gutenberg_issued: '2016-10-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53246'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Proverbs, Finnish'
+- !lcc 'PN'
+- GITenberg
+title: Wanhain Suomalaisten Tawaliset ja Suloiset Sananlascut
+url: http://www.gutenberg.org/ebooks/53246
