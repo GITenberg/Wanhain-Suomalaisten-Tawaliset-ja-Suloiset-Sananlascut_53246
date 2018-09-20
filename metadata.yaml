@@ -1,5 +1,5 @@
 _repo: Wanhain-Suomalaisten-Tawaliset-ja-Suloiset-Sananlascut_53246
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   compiler:
     agent_name: Florinus, Henrik
@@ -10,7 +10,12 @@ contributor:
     deathdate: 1705
     gutenberg_agent_id: '47996'
     url: http://www.gutenberg.org/2009/agents/47996
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53246#Wanhain-Suomalaisten-Tawaliset-ja-Suloiset-Sananlascut
 gutenberg_issued: '2016-10-10'
 gutenberg_type: Text
 identifiers:
